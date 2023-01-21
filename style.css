@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    gap: 16px;
+}
+
+/* Style links */
+
+.description {
+    display: flex;
+    gap: 16px;
+}
+
+.container-desc {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.cards-container {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+}
+
+.quote-text {
+    text-align: left;
+}
+
+.cit {
+    text-align: end;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
