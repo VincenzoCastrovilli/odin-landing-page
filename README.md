@@ -1,2 +1,3 @@
 # odin-landing-page
-//TODO: brief description of the project and skill used
+Simple webpage that recreates a very common layout for websites.
+Made with HTML and CSS using Flexbox layout.
